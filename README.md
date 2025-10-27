@@ -1,3 +1,5 @@
+Shopify and Playwright Unit Tests built with AI prompts
+
 feat: Add Playwright unit tests for e-commerce dashboard components
 
 Add comprehensive unit test examples for personal dashboard components
